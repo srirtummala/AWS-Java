@@ -1,11 +1,11 @@
 # AWS-Java
 
-Example of using DynamoDB with Java using the aws-sdk.
+Illustrated procedure of implementing DynamoDB with Java using the aws-sdk.
 
-Technologies
-Java 8
-DynamoDB
-aws-sdk-java
+ - Technologies
+ - Java 8
+ - DynamoDB
+ - aws-sdk-java
 
 
 Info
